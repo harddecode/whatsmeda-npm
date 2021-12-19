@@ -5,4 +5,4 @@ A NPM Package for WhatsMeda
 `npm install -g whatsmeda-npm`
 
 ### NPM Author
-`Phaticusthiccy` - [NPM](https://www.npmjs.com/package/whatsmeda-npm)
+`HardDecode` - [NPM](https://www.npmjs.com/package/whatsmeda-npm)
